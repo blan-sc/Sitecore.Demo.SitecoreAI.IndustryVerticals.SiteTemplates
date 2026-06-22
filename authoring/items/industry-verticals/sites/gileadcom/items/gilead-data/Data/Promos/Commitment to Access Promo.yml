@@ -1,0 +1,60 @@
+﻿---
+ID: "5f5e3439-6671-464f-af96-1c32bc6df392"
+Parent: "358b14e1-b76a-4adf-b5be-2379dee713d6"
+Template: "08213afb-9cb4-4c1f-a5da-865b9a095601"
+Path: "/sitecore/content/industry-verticals/gileadcom/Data/Promos/Commitment to Access Promo"
+SharedFields:
+- ID: "0d9bfa5d-ac4d-4dca-8477-78801227cf5c"
+  Hint: PromoImageTwo
+  Value: |
+    <image mediaid="ad649126-3b13-4703-ac83-88025813211b" />
+- ID: "b441a09f-ddb2-41a8-84cc-2533686541f4"
+  Hint: PromoImageOne
+  Value: |
+    <image mediaid="ad649126-3b13-4703-ac83-88025813211b" />
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
+  Hint: __Shared revision
+  Value: "314d0bb0-6f5b-427a-b9e4-4c9b4e8173a7"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20260609T080431Z
+    - ID: "453ed40c-5232-4e90-b023-7a3cee2bcfe8"
+      Hint: PromoMoreInfo
+      Value: |
+        <link linktype="external" url="#" target="" text="View U.S. Patient Support Programs" title="" class=""/>
+    - ID: "4fc0c7b3-bcfb-4a9d-834d-59f6836e5fd6"
+      Hint: PromoDescription
+      Value: |
+        <div class="ck-content"><p>Innovation means nothing if it doesn’t reach the people who need it most. At Gilead, access isn’t an afterthought: it’s embedded in how medicines are developed, evaluated for their value, and delivered. As pioneers of voluntary licensing since 2006, Gilead continues to push boundaries in ensuring breakthrough therapies reach those who would benefit.</p><p>We operate in both resource-limited countries and the United States, adapting our approach to meet the unique needs of each population. Through voluntary licensing with generic manufacturers, we provide affordable medicines globally, while U.S. patient support programs remove financial barriers for Americans. Together, these efforts ensure comprehensive global access to our therapies.</p></div>
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\allen.blanton@sitecore.com
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\allen.blanton@sitecore.com
+    - ID: "79332b7d-ea7f-47d7-a9c2-bfaae4806296"
+      Hint: PromoSubTitle
+      Value: ㅤ 
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "0e6605a3-b835-4096-8bc7-6496c9a977ca"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\allen.blanton@sitecore.com
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20260609T081338Z
+    - ID: "f7e3056b-5e6e-4080-b2b7-84f76b2052fc"
+      Hint: PromoTitle
+      Value: Our Commitment to Access and Affordability 

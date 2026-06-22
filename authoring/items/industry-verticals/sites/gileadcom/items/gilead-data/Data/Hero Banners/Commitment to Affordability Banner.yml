@@ -1,0 +1,53 @@
+﻿---
+ID: "8c2bfa54-4e5d-4720-aa43-d9d7f655604b"
+Parent: "c9d93247-7097-4503-9c4f-e02edd99fab9"
+Template: "ac18eef2-f134-4985-8b74-6ad16cca6577"
+Path: "/sitecore/content/industry-verticals/gileadcom/Data/Hero Banners/Commitment to Affordability Banner"
+SharedFields:
+- ID: "00b71f70-411d-4ea1-a423-74ed20b60157"
+  Hint: Image
+  Value: |
+    <image mediaid="ad649126-3b13-4703-ac83-88025813211b" />
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
+  Hint: __Shared revision
+  Value: "42cf3394-c093-44a7-9355-464473b5cf93"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "1dec177a-1a9b-41cf-a60c-d89f28fa41e8"
+      Hint: Description
+      Value: |
+        <div class="ck-content"><p>Innovation means nothing if it doesn’t reach the people who need it most. At Gilead, access isn’t an afterthought: it’s embedded in how medicines are developed, evaluated for their value, and delivered. As pioneers of voluntary licensing since 2006, Gilead continues to push boundaries in ensuring breakthrough therapies reach those who would benefit.</p><p>We operate in both resource-limited countries and the United States, adapting our approach to meet the unique needs of each population. Through voluntary licensing with generic manufacturers, we provide affordable medicines globally, while U.S. patient support programs remove financial barriers for Americans. Together, these efforts ensure comprehensive global access to our therapies.</p></div>
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20260609T074944Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\allen.blanton@sitecore.com
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\allen.blanton@sitecore.com
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "e80213c6-6ad9-4313-97a8-456c437d5e1c"
+    - ID: "985b877b-bfee-473e-aada-0a9f156dfecc"
+      Hint: Title
+      Value: Our Commitment to Access and Affordability 
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\allen.blanton@sitecore.com
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20260609T081221Z
+    - ID: "e3c72e5d-cbf1-4af8-8a73-dc4d3c8590f3"
+      Hint: CtaLink
+      Value: |
+        <link linktype="external" url="#" text="View U.S. Patient Support Programs"/>

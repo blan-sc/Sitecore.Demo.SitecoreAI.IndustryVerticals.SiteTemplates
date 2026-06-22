@@ -1,0 +1,63 @@
+﻿---
+ID: "ce9acfa7-4ce6-43d8-b8e2-25e601a03526"
+Parent: "aa6e5f97-44fa-4b36-b1e8-05e02ebf11cd"
+Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
+Path: "/sitecore/media library/Project/industry-verticals/gileadcom/Card-Home-Page-Therapies-Desktop"
+SharedFields:
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+  Hint: __Icon
+  Value: "-/media/CE9ACFA74CE643D8B8E225E601A03526.ashx?h=16&thn=1&w=16"
+- ID: "22eac599-f13b-4607-a89d-c091763a467d"
+  Hint: Width
+  Value: 120
+- ID: "40e50ed9-ba07-4702-992e-a912738d32dc"
+  Hint: Blob
+  BlobID: "7b37a2d0-4b84-41ae-b8e6-3ddbbe7eb83f"
+  Value: iVBORw0KGgoAAAANSUhEUgAAAHgAAAB4BAMAAADLSivhAAAABGdBTUEAALGPC/xhBQAAAAFzUkdCAK7OHOkAAAAqUExURUdwTPCTn/CTn/KSn/GSnvGSnvKSnvKTn++Tn/GSnvGSnfGTn/KTn/GSng+crYkAAAANdFJOUwAgO5nfXIC/EO9wz6/ZNzS8AAAHcElEQVRYw51Z62sUVxSfmc1uxkQh6KYSbGDzalNxIW3wiQOJVizUgSQ1lVoX0oqPlC6kWk21LqypTbFUiNIXhYEU24jQhUj7oVAWxD6sHxbq7mTXyeb+L72vmbn3zr27MQPZnbmZcx/n8Tu/c1bT1nuZk2d/7tA2ds3nAADuqxuTdbyLZ/c6YCPShl0bRF+WO/b8wu/UU/hbt6rPLRsH++hdAkw1eK/P9i5FBrvC9TIratkvoE7BIXHUHgpu2zylvXT72w7zOBC0knCZh9KMSriljubNlslT59Lw44vDZwaTZeaVm2WVcPYN9BlDK+l3bUAvh10sUVEJ28QixTGzzwHg2J7JiYGTH17hjmF6eYVJauS7cGE/8A4M+orwuJdyKblwjJqkG4DLqciU9LKGFMLUiFu899WnzDQTfsaNrnIvpRW2itE1uhdkUzYRNujpMg83sLLpEDXZnIu1CWd+qLBzYTTijlFtq+Kq1YXuaVpP+f0Idh5TBkZlUP/JE/7NuYUO8kphWUhmZyQWiV7Jel/RfSSOcoGULCsX/p17vk4CP1Ffh3fChbnznAAA78JkkQQMrWvh7eBrm7z6CoNhQIGf7W6em+pIXs9WCHpOBQufAYtyHBnlvBLZ3HDwqxmXnF7PVbXCHTk6c8DYjV0ls0Dtj2xt7IcuEHNlhu5alQR9K7HMPIC56iDJVUWZc9tDEr/ywaWzCL3He0+yCEVnHs6LWDjuO5R+0s/PcQnudwmJhAgnJJaR4L7oOhbW82ZJbuqKeKghbiY9Euq8QfohmUbcXws6rVmUeaMthnRmRNwKsssOV5YU098rZttlH6Oxn3H3nAOjUsARFGG4YYKu5KkvBreiLwqHpvhqwgS9016mEy6dUUCOw+crqlUcDcmmrCXLW7owFM5hqLJouJR7MVD49d4UzcwE0aXoOn8F/Ep32waTNzWDeQ/eUxchbiXDdSQA1uhbtfGdNtH4feDOFsERMozXzEqELcgBX7IxKie8FPpAE30FLuU18wT4CIsNhevzLokzwYtYorvsh4dZ/Ab/9zgGiPQCtleUOWRIMFgzQQjdhEl8sw9PNhpvRw6dqEncmWzmRjmACeRmAeph6xoQJ8VExzpgG5rX7qCRrgcRQqybcf/Z70Ut5fMSTKQCYSZzYwPpEKsuRHcdYAISJBgDh1pCVMDK0oy3x2VxVGZgkZgEOmM6DOOWstofg5XRqsRUUOcMw4hF4erL4XGe3mkotePoScAUkQ1hJgqUbdCFFzmeFMfZNlfp6cytcJ4YFc5WTpZWOJ7Ugh9jqExKBaEoFdYh3U3Q8CQ8ScsSFW372NnHs6rNqzJCSMMT8yR4UN8FcAQxTDGibWwfujVUQGhGLtgcFmbtPNJAWPsM1Ged0PewrpggiFAVbJ8gPHdBJZ3XOGEzAEIddEgykBGOGr3MCwQ1ClxUCdTvSM+0AkmJcGsQz8vSEk3BnEpjBOYJevX7Wanv8bUfAyb2+iOFs1M+SjDsZfAJGZ1G7LN5mVykqjoOjVAEP5CHHeDyxIDVsFYNAgSfFtJEcJkmNwyuzctkhoPPDfhpL1nLE0q22KSUZzHSobuwljmkVV5c3UHPHxCTmAR9tbm7nx69RrIuF0TUCQMabzoROmHeIzVtDYFLO7uzDEm4m54KszGy06C2e2LrwF5sSK5su0UoSnpZWT3dB1eJXj4vgfP+YpRqlwURMT63h2iuW26HNRbNCGGF2s0Lx51DLI2vcioxPEE4zYdJgaNFCVCXFPzMmTnKIvZWCnxxlQ1yLlsxzvXQqapiUcBNRtTdWuV2AnnIA3xIZ0qe632wq2osiSLQZtWvIPpBOKxAfPOcxvBTjtoqXcaUPkU6J6R9woMBhzC5RaaFZNhTlDigPx2kmhB2QoMNBx9yuuL3HVD4yApXnrdQXfWDv3u2ThPY2/IfEZaxfZPjrvTQuoUi50KQf1BWl3YJskMSFeinfnvztbBYKtxGraKmbD9as5jFw+cgHgm9IZGlSExH0jBAoBpfkwkLTR9JIbMTgU5stSkEymvE6AYVDZA2T97p2vRMXmfwp7SkdRA2t6wy4yGyvS6tLbpHGqW6EF5mNi6sJYn6zV5uB7cW1iWs2//CzxdsvpG9vjOjLksHxCvvD4clBC1PGyZZZulRM1dJaYbF6K5V2hs2ok6bdE8hUskxlFi1UY+U9ZsSLXoZbhSvSZuNEn+MUXbJ1JOmtH0mo/bBMqUpAd40WUtBUZQz+UbarLTGGkTBrTAcNkl2GCWbrDsx1o22NhStwMCRWdewo4fOyCIw6BGzUZy+HW3ayZQYMJX0SuD4c/cj8NZaa4hrFvCufTDR2zt5+i8I5CIjluOGr0Ud/BL8IFDf3b+WF0pxOWJZpAMJC2lz4PTe2dk/D4yjIz7gnNi6I8fKG/inDLM0KgQMu1S/YmHUscRNAN4H9GIlHJiXd4wI4/pu+AlpP3CU5rAvPe9U1E2Yd6GOor8cbQNruKI133JqqQZ8uHNSVn/DxHV0z9mDNmgoq5zzCbKbdzWvbejqXeJ+Xvwfgd2zns6tesIAAAAASUVORK5CYII=
+- ID: "6954b7c7-2487-423f-8600-436cb3b6dc0e"
+  Hint: Size
+  Value: 2069
+- ID: "6f47a0a5-9c94-4b48-abeb-42d38def6054"
+  Hint: Mime Type
+  Value: image/png
+- ID: "c06867fe-9a43-4c7d-b739-48780492d06f"
+  Hint: Extension
+  Value: png
+- ID: "cb09946f-3218-4823-87d2-d5007c199a96"
+  Hint: Dimensions
+  Value: 120 x 120
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
+  Hint: __Shared revision
+  Value: "f5bec7f8-b3ee-47a8-b98b-fc1b5632c118"
+- ID: "de2ca9e4-c117-4c8a-a139-1ff4b199d15a"
+  Hint: Height
+  Value: 120
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20260609T063811Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\allen.blanton@sitecore.com
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\allen.blanton@sitecore.com
+    - ID: "65885c44-8fcd-4a7f-94f1-ee63703fe193"
+      Hint: Alt
+      Value: "Card-Home-Page-Therapies-Desktop"
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "7ba216ff-8fd0-4106-b84c-4ee725bddd45"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\allen.blanton@sitecore.com
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20260609T063812Z

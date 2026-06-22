@@ -1,0 +1,63 @@
+﻿---
+ID: "2fdaab93-ff81-4292-a340-948befbf9243"
+Parent: "aa6e5f97-44fa-4b36-b1e8-05e02ebf11cd"
+Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
+Path: "/sitecore/media library/Project/industry-verticals/gileadcom/Card-Home-Page-Total-Program-Desktop"
+SharedFields:
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+  Hint: __Icon
+  Value: "-/media/2FDAAB93FF814292A340948BEFBF9243.ashx?h=16&thn=1&w=16"
+- ID: "22eac599-f13b-4607-a89d-c091763a467d"
+  Hint: Width
+  Value: 120
+- ID: "40e50ed9-ba07-4702-992e-a912738d32dc"
+  Hint: Blob
+  BlobID: "26a14c25-9387-4dec-98fd-570e292449b8"
+  Value: iVBORw0KGgoAAAANSUhEUgAAAHgAAAB4BAMAAADLSivhAAAABGdBTUEAALGPC/xhBQAAAAFzUkdCAK7OHOkAAAAqUExURUdwTHyXwXuYwX2XwHuYwnuXwnuYwnyXwHyYwYCfv3qWwHuYwnqZwHuYwfEAvGUAAAANdFJOUwCA3yDDZaJA7xAwkFBchGiTAAAEOklEQVRYw+2Y30sUURTH7+44u+5aoD23IP4IrAa2tUwqQdEkHxY2kyxiwUBBk4F9CA1iwQqDhIElE3wJlh5qH0UM6mHBHqKXhBxnpy27/0uzuzPj7M4998xoPuVFZZ3dz37n3jn33O85hBzruC5R1hiNe2BFhbLHrgc4rWeY19/TFMoKUiv0rXv4XevQO6F9FG76Cb0TVlE4CN5chB4FLqNwCHwioobC4TIUDK9L+HNOdgLPMNmOwwn6sI01ZlUP8SnIQHgOe9kYwm15yKWbHLrjcV+lp1yXYq3kBD6B/1P4yt3pkfmz+cPAa7O1favO+IcXFPry4+Ti1y3jrPILP6aaud2jE1TL+4Iv02c5+58+SY/7gEXFwRJySen2DkdkPVd3oY9+9gwnytsNV+41JFoYFqRO8FK4ozoUEE5oOfcKmtJhM2u3gsJzjGVI9tRe9FZHEYKbGMLGuaZ5mnOsk30/KQ9wmLJPsOxvD3AQOM5bNA9wDDh3I877BmBB2gbWYucVCsNWo6mEwkHQeJ0yvnazgxthO7DVUDLEtglsWIb9aGyDrPZyI0yBfUp2CZlzmGPNmvcQGHa5hhssIXCI4+vEfQSGLbLxrHQEbv7FcWQqAp/+AcMOk8yG3y5xsrlhz6Mj1cGuPAba+TA3h2FwZLE6ZN9zJvQ4Vzv4m1MyaMcZYeL+EWKbt6scU2LDESUHwgPYfibJFM9STYzwIoykB0HYSMpIDlvnlq0fFnkRRgL6EfJ2RMlA+a/Tw1kFTdq5SBC8DsSYqOZwWASK3v6ShyM2SgfZJ+yGB7hQZq53yHnXEBxVHjGPwGJtrbk5jBR0kmUYi1A5j/qwtqgyRUQ657ZhK+YLOMIC9FNlwgVXSf9OzaPeM11z9WG63Pilw6jrFWlbdTKJMr1YtyWk/RwKp3crPxWLO05vOg64pJpBzbpoyFZ+E8aUz9BzFvBUKafwGqOiavypeuvIOC0PfetdvfbgFqVjeHUjVucr0s3aWi9Yvb8LRQ+lUboWG0+ouW+FL9Mdz7vm7zsrOiiHiWbUVMIErCWhHGYHZfEPDAM5LGpth4ArbvFasmAJx3Z9l8AO4ZRv+EC45Lv4tpeYIYzCBR0WxmBb2EoYfuB+S1he8d1wECSeMAInuMJ82BZ+w25HcmFLOAI0SBlwMWULj3GFSdZ9/sjbDbU2JOw0MrZzyTcIJ6AGbLOrTS1YLjRoCjM6BaArtGvGdA8izCgv7a8zjRcszLApA9ZETMuX0GDr57Ip8lSdA7eXzYs3E+zOgBTHhOu9TKVzYWeqaiLkChvrUh9jRbsQyb5wJgP26K9z4YEDv9SipoioTHHhqOK0Qs7ELqujio70Egta3NFoc6Q5UaJaCoEFafmg0Xa+7qa+x9HeZx/trn1oTdLwTzeOcapNxsnVCUXdJv7HRO141A7DEnJjS6JdMznyj8ZfQDPVY1BLG0QAAAAASUVORK5CYII=
+- ID: "6954b7c7-2487-423f-8600-436cb3b6dc0e"
+  Hint: Size
+  Value: 1247
+- ID: "6f47a0a5-9c94-4b48-abeb-42d38def6054"
+  Hint: Mime Type
+  Value: image/png
+- ID: "c06867fe-9a43-4c7d-b739-48780492d06f"
+  Hint: Extension
+  Value: png
+- ID: "cb09946f-3218-4823-87d2-d5007c199a96"
+  Hint: Dimensions
+  Value: 120 x 120
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
+  Hint: __Shared revision
+  Value: "d293b5f1-b829-4fc2-a179-83a592ffb87e"
+- ID: "de2ca9e4-c117-4c8a-a139-1ff4b199d15a"
+  Hint: Height
+  Value: 120
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20260609T063816Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\allen.blanton@sitecore.com
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\allen.blanton@sitecore.com
+    - ID: "65885c44-8fcd-4a7f-94f1-ee63703fe193"
+      Hint: Alt
+      Value: "Card-Home-Page-Total-Program-Desktop"
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "b1207b9a-c540-4ed1-ac6f-5bea5032e123"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\allen.blanton@sitecore.com
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20260609T063816Z
