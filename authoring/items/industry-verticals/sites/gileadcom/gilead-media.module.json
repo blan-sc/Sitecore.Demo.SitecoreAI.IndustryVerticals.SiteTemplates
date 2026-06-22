@@ -1,0 +1,15 @@
+{
+  "$schema": "../.sitecore/schemas/ModuleFile.schema.json",
+  "namespace": "Project.Gilead-Media",
+  "references": ["Project.IndustryVerticals"],
+  "items": {
+    "includes": [
+      {
+        "name": "gilead-media-library",
+        "path": "/sitecore/Media Library/Project/industry-verticals/gileadcom",
+        "scope": "DescendantsOnly",
+        "allowedPushOperations": "CreateUpdateAndDelete"
+      }
+    ]
+  }
+}
