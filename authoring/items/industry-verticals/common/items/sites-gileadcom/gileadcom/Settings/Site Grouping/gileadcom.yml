@@ -24,7 +24,7 @@ SharedFields:
   Value: *
 - ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
-  Value: "83696925-660e-46d6-a661-ce2f8db24d33"
+  Value: "bcc97ffb-5224-4321-be99-71c9f41dbc85"
 - ID: "f57099a3-526a-49f2-aebd-635453e48875"
   Hint: RenderingHost
   Value: gileadcom
@@ -46,11 +46,11 @@ Languages:
         sitecore\allen.blanton@sitecore.com
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "d3fe3e43-2d46-4ad9-938e-f15c41a5eef2"
+      Value: "c400098f-1f51-4393-b25f-090110e87606"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\allen.blanton@sitecore.com
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20260609T123630Z
+      Value: 20260622T055730Z
