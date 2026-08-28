@@ -1,0 +1,38 @@
+﻿---
+ID: "4c9d9e77-d34e-41e7-99e1-e9f3b12d01ac"
+Parent: "a9bbd8ba-f986-49e2-842f-127988dc766d"
+Template: "0a7aa373-5ed1-4e9b-9678-22d3c5faf6df"
+Path: "/sitecore/content/industry-verticals/gileadcom/Home/Medicines/Medication Access/Data/Text 12"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20260625T043243Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\allen.blanton@sitecore.com
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\allen.blanton@sitecore.com
+    - ID: "729034fc-24f3-40b7-8fa4-fb49d7de20dd"
+      Hint: Text
+      Value: |
+        <div class="ck-content"><h5>1. What medication access resources are available?</h5><p>Patients and caregivers can use this page to find information about support resources, affordability information, and next steps for learning more.</p><h5>2. Who can use patient support resources?</h5><p>Support resources may be designed for patients, caregivers, or care teams, depending on the program and region.</p><h5>3. Where can patients find affordability information?</h5><p>Patients can start with the medication access resources on this page and review related support information linked from this section.</p><h5>4. What is managed access?</h5><p>Managed access may provide eligible patients with serious or life-threatening conditions access to certain medicines outside of clinical trials when no comparable therapy is available and defined criteria are met.</p><h5>5. How does Gilead expand access globally?</h5><p>Gilead works with public health organizations, generic manufacturers, governments, advocacy groups, NGOs, and other partners to support access to medicines in low- and middle-income countries.</p></div>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "6b502d0e-1a10-43e5-a5b3-cac809cdf3c4"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\allen.blanton@sitecore.com
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20260625T052300Z

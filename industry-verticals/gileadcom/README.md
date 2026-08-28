@@ -12,7 +12,8 @@ Gileadcom is a dedicated headless application branched from the Forma Lux retail
 
 ## Preconditions
 
-1. You have deployed your XM Cloud environment already. If not follow this link: [Deploy a Project and Environment](https://doc.sitecore.com/xmc/en/developers/xm-cloud/deploy-a-project-and-environment.html)
+1. Use **Node.js 22.x** (matches `xmcloud.build.json`). Node 25+ breaks local Page Builder editing. With Homebrew: `brew install node@22` then add `export PATH="/opt/homebrew/opt/node@22/bin:$PATH"` to your shell profile and restart the terminal. Verify with `node -v` (should show v22.x, not v26).
+2. You have deployed your XM Cloud environment already. If not follow this link: [Deploy a Project and Environment](https://doc.sitecore.com/xmc/en/developers/xm-cloud/deploy-a-project-and-environment.html)
 
 ## Run site locally
 
@@ -27,10 +28,10 @@ Gileadcom is a dedicated headless application branched from the Forma Lux retail
    - NEXT_PUBLIC_DEFAULT_SITE_NAME (use `gileadcom`)
    - NEXT_PUBLIC_SITECORE_EDGE_CONTEXT_ID
    - SITECORE_EDITING_SECRET
-   - NEXT_PUBLIC_SEARCH_ENV
-   - NEXT_PUBLIC_SEARCH_CUSTOMER_KEY
-   - NEXT_PUBLIC_SEARCH_API_KEY
-   - NEXT_PUBLIC_SEARCH_SOURCE
+   - NEXT_PUBLIC_SEARCH_ENV (optional for Page Builder; copy from Deploy Portal if you need search widgets)
+   - NEXT_PUBLIC_SEARCH_CUSTOMER_KEY (optional for Page Builder)
+   - NEXT_PUBLIC_SEARCH_API_KEY (optional for Page Builder)
+   - NEXT_PUBLIC_SEARCH_SOURCE (optional for Page Builder)
    - NEXT_PUBLIC_BASE_URL
 6. Install dependencies:
    from `industry-verticals/gileadcom` run `npm install`

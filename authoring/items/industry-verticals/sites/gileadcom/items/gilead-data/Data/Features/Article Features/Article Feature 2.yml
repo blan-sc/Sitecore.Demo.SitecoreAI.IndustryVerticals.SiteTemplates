@@ -7,24 +7,27 @@ SharedFields:
 - ID: "83bc80ee-e97a-474b-8c05-a2559394eebe"
   Hint: FeatureImage
   Value: |
-    <image mediaid="301941A9-EEA8-4212-A4C9-7AC8840EB428" />
+    <Image src="https://starter-verticals-2.sitecoresandbox.cloud/api/public/content/78879-HomepagePromoCTAs-1100x740?v=79654a01" dam-id="qsfwT6UYSFStyEqZv3u_zA" width="1100" height="740" alt="group-doctors-cooperating.jpg" dam-content-type="Image" thumbnailsrc="https://starter-verticals-2.sitecoresandbox.cloud/api/gateway/78879/thumbnail" />
 - ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
   Hint: __Sortorder
   Value: 50
 - ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
-  Value: "27dae653-1050-40eb-b4aa-67e16e10900b"
+  Value: "d869874b-6283-4281-8570-4c4d237b8c9c"
 Languages:
 - Language: en
   Versions:
   - Version: 1
     Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
       Value: 20250915T104825Z
     - ID: "35b07fa2-ce95-4459-8dd6-074203dda9a7"
       Hint: FeatureDescription
-      Value: Large indoor plants flank the room’s corners, echoing the view outside and breathing life into the interior. Organic elements are repeated throughout, from stone planters to rattan light shades, uniting the design.
+      Value: Gilead’s access commitments include voluntary licensing, global partnerships, and supply efforts designed to help reach communities in countries where the need is greatest.
     - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
       Hint: __Owner
       Value: |
@@ -35,17 +38,17 @@ Languages:
         sitecore\movin.tilakaratne@sitecore.com
     - ID: "5f507c84-84f9-4033-81a2-90bca3d12606"
       Hint: FeatureTitle
-      Value: Bringing the Outdoors In 
+      Value: Expanding Access Through Global Partnerships
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "84451985-e4a6-4cdd-a85c-d26734199f30"
+      Value: "05793a1b-463e-43be-8a44-b0866808374f"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\allen.blanton@sitecore.com
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20260609T054656Z
+      Value: 20260625T080850Z
 - Language: "es-ES"
   Versions:
   - Version: 1

@@ -4,6 +4,13 @@ Parent: "725071a6-4c08-4116-b0ff-fd505558b025"
 Template: "98e60957-0783-4a9a-85cc-77dad30e9711"
 Path: "/sitecore/content/industry-verticals/gileadcom/Home/Science/Therapeutic Areas/Virology/HIV"
 SharedFields:
+- ID: "25f9b35b-0c2c-4f43-ae2f-1d30eb1f2b6b"
+  Hint: ogImage
+  Value: |
+    <image mediaid="ca658ffa-3665-4cf6-8860-b6a9d891865d" alt="HIV landing page imagery representing Gilead’s work in science, access, and community partnerships." />
+- ID: "97fb669d-5b8e-4829-9a24-06418c315d73"
+  Hint: SxaTags
+  Value: "{2CDBC4F6-E185-4C2A-9422-30ECCD1E80EB}|{8A3C8F30-0F17-4833-96D8-5131BBE8152A}|{BF7B6FDB-425D-4BB5-BF6F-CA76BBE4931A}|{DB50501E-B65D-49A7-BBC1-6CBF36B90767}|{4FDB3CE3-C93C-4BB5-8327-74BB4ED79B49}|{E65E6645-2632-41DE-A5F5-728B9DC070EA}|{E54A4971-F39B-4AC0-A078-0C135C5A47DA}|{AD883652-BF8F-4303-8BB8-3A7CF887590F}|{317CEC83-F01A-4181-A870-AE01557463B8}"
 - ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
   Hint: __Workflow
   Value: "{A5BC37E7-ED96-4C1E-8590-A26E64DB55EA}"
@@ -13,7 +20,7 @@ SharedFields:
     <image mediaid="{A936DBBD-88A2-47BB-95F7-3A6AE7E2497F}" />
 - ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
-  Value: "76103aef-6e2c-4554-8d5a-a3f63266ec9f"
+  Value: "feff7687-632c-4e4a-921e-39c95db581c3"
 Languages:
 - Language: en
   Versions:
@@ -134,6 +141,13 @@ Languages:
               s:par="GridParameters=%7B7465D855-992E-4DC2-9855-A03250DFA74B%7D&amp;FieldNames=%7BE00C6D8B-C133-40F5-A6C4-E73E5362B659%7D&amp;Styles=%7C%7BB65F8AB6-1033-4339-AE5E-4D77C861F4AD%7D%7C%7B46DB6D62-657E-4AA9-99CB-7EC9B916F6EE%7D&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=4"
               s:ph="headless-main" />
             <r
+              uid="{506EFEAE-DDD1-4494-BB92-5D6A8D5F3AD1}"
+              p:after="r[@uid='{A0A6140E-A107-4CF5-A97A-E05BE5B3A19C}']"
+              s:ds="5922ff99-74d2-4692-9694-7ae4f5cd6b79"
+              s:id="{CCD11802-22A3-462F-92FC-821515E2AEC8}"
+              s:par="GridParameters=%7B7465D855-992E-4DC2-9855-A03250DFA74B%7D&amp;FieldNames=%7BDAC2FC87-62A0-4EF3-87D2-CFEF3C9A8379%7D&amp;Styles=%7C%7BB4BDE12F-34B3-4F25-A477-7B8BCC23481F%7D&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=5"
+              s:ph="headless-main" />
+            <r
               uid="{1CC7B844-900D-49AA-BF34-1757ADE4BF26}"
               p:after="*[1=2]"
               s:ds="b8db6187-c152-4985-819a-96de62711b2b"
@@ -142,9 +156,15 @@ Languages:
               s:ph="headless-main" />
           </d>
         </r>
+    - ID: "13fe722e-a8c7-4432-a983-23fb28ffab05"
+      Hint: metadataKeywords
+      Value: HIV, HIV treatment, HIV prevention, patient support, health equity, strategic initiatives, access, community partnerships
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
       Value: 20260609T125923Z
+    - ID: "32c603c2-c858-4138-8fcb-8e18a5ad8240"
+      Hint: metadataTitle
+      Value: HIV
     - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
       Hint: __Workflow state
       Value: "{190B1C84-F1BE-47ED-AA41-F42193D9C8FC}"
@@ -162,9 +182,12 @@ Languages:
       Hint: __Created by
       Value: |
         sitecore\allen.blanton@sitecore.com
+    - ID: "6b43d550-6d5f-46ce-ac84-3d9493c45bc6"
+      Hint: metadataDescription
+      Value: Learn how Gilead supports efforts to help end the HIV epidemic through science, access, strategic initiatives, partnerships, and community stories.
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "3b6b7f0f-2a66-4f5c-83ef-71e46d152667"
+      Value: "31bfb93b-e768-4490-bcd2-6be454e79384"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
@@ -172,6 +195,9 @@ Languages:
     - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
       Hint: __Valid from
       Value: 20260609T125923Z
+    - ID: "d3886445-9ee0-46a0-ae5e-8857dd6b395f"
+      Hint: pageSummary
+      Value: Gilead’s HIV content brings together information about scientific innovation, access, strategic initiatives, community partnerships, and stories that reflect ongoing work to help address the HIV epidemic worldwide.
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20260609T125923Z
+      Value: 20260625T071628Z

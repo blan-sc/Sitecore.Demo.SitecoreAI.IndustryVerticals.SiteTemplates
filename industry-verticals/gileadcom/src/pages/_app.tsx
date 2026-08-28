@@ -13,6 +13,10 @@ const SEARCH_CONFIG = {
   apiKey: process.env.NEXT_PUBLIC_SEARCH_API_KEY,
 };
 
+const isSearchConfigured = Boolean(
+  SEARCH_CONFIG.env && SEARCH_CONFIG.customerKey && SEARCH_CONFIG.apiKey
+);
+
 function App({ Component, pageProps }: AppProps<SitecorePageProps>): JSX.Element {
   const { dictionary, ...rest } = pageProps;
   const lang = pageProps.page?.locale || scConfig.defaultLanguage;
@@ -23,6 +27,8 @@ function App({ Component, pageProps }: AppProps<SitecorePageProps>): JSX.Element
   } else {
     PageController.getContext().setLocaleCountry(lang.split('-')[1].toLocaleLowerCase());
   }
+
+  const page = <Component {...rest} />;
 
   return (
     <>
@@ -36,14 +42,18 @@ function App({ Component, pageProps }: AppProps<SitecorePageProps>): JSX.Element
         lngDict={dictionary}
         locale={pageProps.page?.locale || scConfig.defaultLanguage}
       >
-        <WidgetsProvider
-          env={SEARCH_CONFIG.env as Environment}
-          customerKey={SEARCH_CONFIG.customerKey}
-          apiKey={SEARCH_CONFIG.apiKey}
-          publicSuffix={true}
-        >
-          <Component {...rest} />
-        </WidgetsProvider>
+        {isSearchConfigured ? (
+          <WidgetsProvider
+            env={SEARCH_CONFIG.env as Environment}
+            customerKey={SEARCH_CONFIG.customerKey}
+            apiKey={SEARCH_CONFIG.apiKey}
+            publicSuffix={true}
+          >
+            {page}
+          </WidgetsProvider>
+        ) : (
+          page
+        )}
       </I18nProvider>
     </>
   );

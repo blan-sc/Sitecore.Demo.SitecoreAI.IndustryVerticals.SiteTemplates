@@ -30,7 +30,7 @@ SharedFields:
     <image mediaid="{411E7DE7-AC98-4140-9290-E0E1D14681A4}" />
 - ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
-  Value: "e77c4d48-9dbe-426a-b69e-91ce817c871a"
+  Value: "911f0e36-1b8e-4270-a0c9-6c85b2f7f1ed"
 - ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
   Hint: __Renderings
   Value: |
@@ -48,7 +48,7 @@ SharedFields:
     </r>
 - ID: "fe61849e-05c9-4da7-ba34-5780f95d0866"
   Hint: Category
-  Value: 
+  Value: "{7A8283C0-BC3A-498E-AF92-CF05A09559F2}"
 Languages:
 - Language: en
   Fields:
@@ -98,7 +98,7 @@ Languages:
       Value: Explore how patience and precision define Handmade Pieces That Took Time to Make. Forma Lux celebrates slow design—crafted furniture and home décor where every curve, texture, and finish reflects human touch.
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "4667e139-be0e-425f-818c-ffb8be0261e6"
+      Value: "ab6a8415-7371-48f7-8a4a-f5d9feec6606"
     - ID: "9c8beb3d-e162-4540-bb7d-9504db078f44"
       Hint: Title
       Value: How Choose U Helps People Living with HIV Prioritize Mental Wellbeing 
@@ -108,7 +108,7 @@ Languages:
         sitecore\allen.blanton@sitecore.com
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20260609T071342Z
+      Value: 20260625T071243Z
     - ID: "e4df8bb9-c0d9-475d-92b4-dcb526bd6b38"
       Hint: metadataTitle
       Value: Handmade Pieces That Took Time to Make | Forma Lux Journal – The Beauty of Patience in Design

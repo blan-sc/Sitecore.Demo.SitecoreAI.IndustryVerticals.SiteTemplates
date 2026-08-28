@@ -56,6 +56,14 @@
             "path": "/gileadcom",
             "scope": "SingleItem",
             "allowedPushOperations": "CreateOnly"
+          },
+          {
+            "path": "/copy-of-gileadcom",
+            "scope": "Ignored"
+          },
+          {
+            "path": "*",
+            "scope": "Ignored"
           }
         ]
       },
@@ -330,13 +338,8 @@
             "allowedPushOperations": "CreateOnly"
           },
           {
-            "path": "/Settings/Site Grouping",
-            "scope": "ItemAndDescendants",
-            "allowedPushOperations": "CreateAndUpdate"
-          },
-          {
             "path": "/Settings",
-            "scope": "ItemAndChildren",
+            "scope": "ItemAndDescendants",
             "allowedPushOperations": "CreateAndUpdate"
           },
           {

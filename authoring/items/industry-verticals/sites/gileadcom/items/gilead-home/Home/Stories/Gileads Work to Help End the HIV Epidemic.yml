@@ -1,0 +1,435 @@
+﻿---
+ID: "4cff3d1a-680b-4cf0-83ce-55e7c8364449"
+Parent: "c323001d-1192-4895-afe5-b9ebfcc3cfdb"
+Template: "412bf445-b1a6-4aff-8054-0b21a1febc47"
+Path: "/sitecore/content/industry-verticals/gileadcom/Home/Stories/Gileads Work to Help End the HIV Epidemic"
+SharedFields:
+- ID: "03ca09cf-9d31-4bbb-a71f-29dec7536586"
+  Hint: Author
+  Value: "{061BD02A-D1E9-4832-AA12-FF6941235D15}"
+- ID: "1a8bfd25-dc41-43ec-a561-d0635fb1958a"
+  Hint: Tags
+  Value: |
+    {2CDBC4F6-E185-4C2A-9422-30ECCD1E80EB}
+    {8A3C8F30-0F17-4833-96D8-5131BBE8152A}
+    {DB50501E-B65D-49A7-BBC1-6CBF36B90767}
+    {F6875B2E-173D-4964-BBEF-D0D48536D850}
+    {BF7B6FDB-425D-4BB5-BF6F-CA76BBE4931A}
+    {E54A4971-F39B-4AC0-A078-0C135C5A47DA}
+- ID: "5f90c361-338c-4896-b022-11dafa5c2241"
+  Hint: PublishedDate
+  Value: 20260618T000000Z
+- ID: "61dfb6ba-1cd3-42ec-97d7-75ca2522920c"
+  Hint: ogImage
+  Value: |
+    <image mediaid="817d026c-f0ff-4a9f-884e-a2beb81b165e" alt="Hand holding a lenacapavir bulb" />
+- ID: "7f7ef9d5-f278-4bfe-94fb-c4be7894feb5"
+  Hint: Image
+  Value: |
+    <image mediaid="817d026c-f0ff-4a9f-884e-a2beb81b165e" alt="Hand holding a lenacapavir bulb" />
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 75
+- ID: "c7c26117-dbb1-42b2-ab5e-f7223845cca3"
+  Hint: __Thumbnail
+  Value: |
+    <image mediaid="{E1532ECB-ECF0-4D89-82ED-7DB3331374F5}" />
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
+  Hint: __Shared revision
+  Value: "08356eaa-1d67-43be-bd45-767c7612bc9f"
+- ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
+  Hint: __Renderings
+  Value: |
+    <r xmlns:p="p" xmlns:s="s"
+      p:p="1">
+      <d
+        id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+        <r
+          uid="{DACD9F81-BE69-44D3-BC1F-5F19C2BD4964}"
+          s:ds="DE4B0667-340B-4944-9788-B07F6BB0569F"
+          s:id="{E3CCF1D0-7855-4898-8BDE-77F83C6A487C}"
+          s:par="GridParameters=%7B7465D855-992E-4DC2-9855-A03250DFA74B%7D&amp;FieldNames=%7B3E6665AB-CB6C-424E-9630-E9A10166EFA0%7D&amp;Styles&amp;RenderingIdentifier&amp;CSSStyles"
+          s:ph="/headless-main/sxa-articlecontent/article-details-1" />
+      </d>
+    </r>
+- ID: "fe61849e-05c9-4da7-ba34-5780f95d0866"
+  Hint: Category
+  Value: "{D74329F5-4753-4278-AF7C-B0729856BD2F}"
+Languages:
+- Language: en
+  Fields:
+  - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
+    Hint: __Unversioned revision
+    Value: "09ee0435-c58b-4a8b-baab-d7bd8cfff6ba"
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: "Gilead’s Work to Help End the HIV Epidemic, One Year after Launch of its Twice-Yearly Prevention Medication"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{DACD9F81-BE69-44D3-BC1F-5F19C2BD4964}">
+              <p:d />
+            </r>
+            <r
+              uid="{4629B3BF-F260-4F99-A52E-527DA82C27B1}"
+              p:before="*"
+              s:ds="a0c20fa3-60f1-48e7-b441-d1c8387b22dd"
+              s:id="{CCD11802-22A3-462F-92FC-821515E2AEC8}"
+              s:par="GridParameters=%7B7465D855-992E-4DC2-9855-A03250DFA74B%7D&amp;FieldNames=%7BDAC2FC87-62A0-4EF3-87D2-CFEF3C9A8379%7D&amp;Styles&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=1"
+              s:ph="/headless-main/sxa-articlecontent/article-details-full-width-1" />
+            <r
+              uid="{54A78321-AE0D-4F46-982A-D91CF39D06B2}"
+              p:after="*[1=2]"
+              s:ds="de4b0667-340b-4944-9788-b07f6bb0569f"
+              s:id="{E3CCF1D0-7855-4898-8BDE-77F83C6A487C}"
+              s:par="GridParameters=%7B7465D855-992E-4DC2-9855-A03250DFA74B%7D&amp;FieldNames=%7B3E6665AB-CB6C-424E-9630-E9A10166EFA0%7D&amp;Styles&amp;RenderingIdentifier&amp;CSSStyles"
+              s:ph="/headless-main/sxa-articlecontent/article-details-1" />
+          </d>
+        </r>
+    - ID: "17b75967-9b67-4eb9-bb35-bbe0228ca368"
+      Hint: pageSummary
+      Value: "This story highlights Gilead’s work to help end the HIV epidemic, including its HIV legacy, development of a twice-yearly prevention medication, voluntary licensing commitments, global access partnerships, and efforts to address stigma, inequities, and barriers to care."
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20250917T090300Z
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: Gilead’s Work to Help End the HIV Epidemic
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\sanduni.galagoda@sitecore.com
+    - ID: "56a52337-177b-46b4-ae72-6b9083bb6700"
+      Hint: Content
+      Value: |
+        <div class="ck-content"><figure class="image"><img style="aspect-ratio:1892/1084;" src="-/media/22281EEA1CAF4AC7864627254D9A738B.ashx" alt="Dan-SA-Stories-1892a" width="1892" height="1084" /></figure><p>Today, Gilead celebrates one year since the U.S. Food and Drug Administration’s approval of the company’s twice-yearly HIV prevention medication. For more than 35 years, Gilead has been a pioneer in virology and has helped transform the treatment and prevention landscape in HIV. Thanks in large part to the company’s work, HIV has evolved from what was once considered a life-threatening disease into a treatable and preventable condition.</p><p>Nearly 20 years ago, Gilead scientists began a search of a new way to help combat HIV, ultimately synthesizing and screening 4,000 molecules before developing a formulation that could be given just twice a year, and conducting the most representative global clinical trial program for HIV prevention ever. The result was an innovative HIV pre-exposure prophylaxis (PrEP) optionthat’s now been available for one year in the U.S.</p><p>Before the first regulatory filing, Gilead entered into voluntary, royalty-free licensing agreements with generics manufacturers to enable broad access in 120 primarily low- and lower-middle-income countries. To bridge the period before generics are available, the company committed to a dedicated supply of our HIV prevention medication at no profit for up to three million people in those countries over the next three years, and we partnered with the Global Fund and PEPFAR to deliver the supply.</p><p>In the past year, Gilead’s innovative PrEP option has also been approved by regulatory authorities in the European Union (EU) (with applicability across the European Economic Area) and the United Kingdom, as well as in a number of other countries globally, where the need is greatest.</p><p>Last November, the company’s HIV prevention medication was delivered to Eswatini and Zambia- marking the first-time that a new HIV medicine reached communities in sub-Sarahan Africa within the same year as approvals in the U.S. Gilead’s Chairman and Chief Executive Officer, Daniel O’Day was on hand then, as well as when it arrived in South Africa earlier this month.&nbsp;</p><figure class="image"><img style="aspect-ratio:1892/831;" src="-/media/239CE5C083984FD58202949F34BDFCF0.ashx" alt="Len-Map-Story-1892" width="1892" height="831" /></figure><p>Gilead knows that scientific innovation alone can’t end the epidemic. Stigma, inequities, access and barriers to care must also be addressed. That’s why the company also partners alongside various communities and organizations around the world to meet people where they are to help close these gaps in care. Together, these efforts are how Gilead hopes to move closer to ending the HIV epidemic.</p></div>
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\sanduni.galagoda@sitecore.com
+    - ID: "62c99938-d40e-4878-ab77-3464abd79fd5"
+      Hint: ShortDescription
+      Value: "One year after FDA approval of Gilead’s twice-yearly HIV prevention medication, this story looks at the science, access commitments, partnerships, and global delivery efforts supporting work to help end the HIV epidemic."
+    - ID: "7a52d039-c368-46c1-b93d-5cbd5b802f73"
+      Hint: metadataDescription
+      Value: "One year after FDA approval of Gilead’s twice-yearly HIV prevention medication, this story looks at the science, access commitments, partnerships, and global delivery efforts supporting work to help end the HIV epidemic."
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "83953871-b0e7-4a22-bd24-fa065d9101d5"
+    - ID: "9c8beb3d-e162-4540-bb7d-9504db078f44"
+      Hint: Title
+      Value: "Gilead’s Work to Help End the HIV Epidemic, One Year after Launch of its Twice-Yearly Prevention Medication "
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\allen.blanton@sitecore.com
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20260625T075525Z
+    - ID: "e4df8bb9-c0d9-475d-92b4-dcb526bd6b38"
+      Hint: metadataTitle
+      Value: Gilead’s Work to Help End the HIV Epidemic
+    - ID: "f04feaa2-f9a4-4030-907d-18fc3b18b0f4"
+      Hint: metadataKeywords
+      Value: "HIV, HIV prevention, PrEP, twice-yearly prevention, access, voluntary licensing, global health, health equity, patient support, community partnerships"
+  - Version: 2
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{DACD9F81-BE69-44D3-BC1F-5F19C2BD4964}">
+              <p:d />
+            </r>
+            <r
+              uid="{4629B3BF-F260-4F99-A52E-527DA82C27B1}"
+              p:before="*"
+              s:ds="a0c20fa3-60f1-48e7-b441-d1c8387b22dd"
+              s:id="{CCD11802-22A3-462F-92FC-821515E2AEC8}"
+              s:par="GridParameters=%7B7465D855-992E-4DC2-9855-A03250DFA74B%7D&amp;FieldNames=%7BDAC2FC87-62A0-4EF3-87D2-CFEF3C9A8379%7D&amp;Styles&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=1"
+              s:ph="/headless-main/sxa-articlecontent/article-details-full-width-1" />
+            <r
+              uid="{54A78321-AE0D-4F46-982A-D91CF39D06B2}"
+              p:after="*[1=2]"
+              s:ds="de4b0667-340b-4944-9788-b07f6bb0569f"
+              s:id="{E3CCF1D0-7855-4898-8BDE-77F83C6A487C}"
+              s:par="GridParameters=%7B7465D855-992E-4DC2-9855-A03250DFA74B%7D&amp;FieldNames=%7B3E6665AB-CB6C-424E-9630-E9A10166EFA0%7D&amp;Styles&amp;RenderingIdentifier&amp;CSSStyles"
+              s:ph="/headless-main/sxa-articlecontent/article-details-1" />
+          </d>
+        </r>
+    - ID: "17b75967-9b67-4eb9-bb35-bbe0228ca368"
+      Hint: pageSummary
+      Value: "This story highlights Gilead’s work to help end the HIV epidemic, including its HIV legacy, development of a twice-yearly prevention medication, voluntary licensing commitments, global access partnerships, and efforts to address stigma, inequities, and barriers to care."
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20260625T211707Z
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: Gilead’s Work to Help End the HIV Epidemic
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\allen.blanton@sitecore.com
+    - ID: "56a52337-177b-46b4-ae72-6b9083bb6700"
+      Hint: Content
+      Value: |
+        <div class="ck-content"><figure class="image"><img style="aspect-ratio:1892/1084;" src="-/media/22281EEA1CAF4AC7864627254D9A738B.ashx" alt="Dan-SA-Stories-1892a" width="1892" height="1084" /></figure><p>Today, Gilead celebrates one year since the U.S. Food and Drug Administration’s approval of the company’s twice-yearly HIV prevention medication. For more than 35 years, Gilead has been a pioneer in virology and has helped transform the treatment and prevention landscape in HIV. Thanks in large part to the company’s work, HIV has evolved from what was once considered a life-threatening disease into a treatable and preventable condition.</p><p>Nearly 20 years ago, Gilead scientists began a search of a new way to help combat HIV, ultimately synthesizing and screening 4,000 molecules before developing a formulation that could be given just twice a year, and conducting the most representative global clinical trial program for HIV prevention ever. The result was an innovative HIV pre-exposure prophylaxis (PrEP) optionthat’s now been available for one year in the U.S.</p><p>Before the first regulatory filing, Gilead entered into voluntary, royalty-free licensing agreements with generics manufacturers to enable broad access in 120 primarily low- and lower-middle-income countries. To bridge the period before generics are available, the company committed to a dedicated supply of our HIV prevention medication at no profit for up to three million people in those countries over the next three years, and we partnered with the Global Fund and PEPFAR to deliver the supply.</p><p>In the past year, Gilead’s innovative PrEP option has also been approved by regulatory authorities in the European Union (EU) (with applicability across the European Economic Area) and the United Kingdom, as well as in a number of other countries globally, where the need is greatest.</p><p>Last November, the company’s HIV prevention medication was delivered to Eswatini and Zambia- marking the first-time that a new HIV medicine reached communities in sub-Sarahan Africa within the same year as approvals in the U.S. Gilead’s Chairman and Chief Executive Officer, Daniel O’Day was on hand then, as well as when it arrived in South Africa earlier this month.&nbsp;</p><figure class="image"><img style="aspect-ratio:1892/831;" src="-/media/239CE5C083984FD58202949F34BDFCF0.ashx" alt="Len-Map-Story-1892" width="1892" height="831" /></figure><p>Gilead knows that scientific innovation alone can’t end the epidemic. Stigma, inequities, access and barriers to care must also be addressed. That’s why the company also partners alongside various communities and organizations around the world to meet people where they are to help close these gaps in care. Together, these efforts are how Gilead hopes to move closer to ending the HIV epidemic.</p></div>
+    - ID: "5b30e879-b721-44c1-b41b-98829ba90c80"
+      Hint: socialTeaser
+      Value: "Gilead’s twice-yearly HIV prevention medication marks another step toward broader access and sustained progress in the effort to help end the HIV epidemic."
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\allen.blanton@sitecore.com
+    - ID: "62c99938-d40e-4878-ab77-3464abd79fd5"
+      Hint: ShortDescription
+      Value: "One year after FDA approval of Gilead’s twice-yearly HIV prevention medication, this story looks at the science, access commitments, partnerships, and global delivery efforts supporting work to help end the HIV epidemic."
+    - ID: "7a52d039-c368-46c1-b93d-5cbd5b802f73"
+      Hint: metadataDescription
+      Value: "One year after FDA approval of Gilead’s twice-yearly HIV prevention medication, this story looks at the science, access commitments, partnerships, and global delivery efforts supporting work to help end the HIV epidemic."
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "0672aef8-ff07-447d-bd26-a6b4c71bbd77"
+    - ID: "9c8beb3d-e162-4540-bb7d-9504db078f44"
+      Hint: Title
+      Value: "Gilead’s Work to Help End the HIV Epidemic, One Year after Launch of its Twice-Yearly Prevention Medication "
+    - ID: "a9a089af-0fd7-4df0-add7-0de3bdd24901"
+      Hint: intranetSummary
+      Value: "This story reviews Gilead’s progress one year after FDA approval of its twice-yearly HIV prevention medication, including the science behind its development, access commitments, global partnerships, and efforts to address stigma and barriers to care."
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\allen.blanton@sitecore.com
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20260625T211707Z
+    - ID: "d2d6fd36-8ffd-4085-8fec-e9f96d1653c5"
+      Hint: emailSummary
+      Value: "One year after FDA approval, Gilead looks back on the science, partnerships, and access commitments behind its twice-yearly HIV prevention medication. The story highlights voluntary licensing, global delivery efforts, and work to address stigma and barriers to care."
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20260625T211708Z
+    - ID: "e4df8bb9-c0d9-475d-92b4-dcb526bd6b38"
+      Hint: metadataTitle
+      Value: Gilead’s Work to Help End the HIV Epidemic
+    - ID: "f04feaa2-f9a4-4030-907d-18fc3b18b0f4"
+      Hint: metadataKeywords
+      Value: "HIV, HIV prevention, PrEP, twice-yearly prevention, access, voluntary licensing, global health, health equity, patient support, community partnerships"
+- Language: "es-ES"
+  Fields:
+  - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
+    Hint: __Unversioned revision
+    Value: "59ead7a5-a9be-4e99-8e28-ffd4d903e4fc"
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Explorando nuevas formas de decorar
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20251007T081036Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\isuru.bandara@sitecore.com
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\isuru.bandara@sitecore.com
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "5261e30e-715f-42de-a316-437900a757ae"
+    - ID: "9857f526-390f-48df-b6d1-1a97cc328e8f"
+      Hint: __Version Name
+      Value: 
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\isuru.bandara@sitecore.com
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20251007T081036Z
+  - Version: 2
+    Fields:
+    - ID: "17b75967-9b67-4eb9-bb35-bbe0228ca368"
+      Hint: pageSummary
+      Value: Forma Lux te invita a repensar cómo cobran vida las habitaciones. Explorando nuevas formas de decorar examina el diseño como una conversación, entre estructura y suavidad, herencia e innovación. La iluminación escultórica, las texturas de madera flotante y la cerámica artesanal anclan el espacio en una belleza táctil, mientras que la moderación reflexiva mantiene cada detalle con propósito. Este artículo celebra los interiores no como exhibiciones estáticas, sino como expresiones en evolución de artesanía, emoción y armonía moderna.
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20250917T090300Z
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: Explorando nuevas formas de decorar
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\sanduni.galagoda@sitecore.com
+    - ID: "56a52337-177b-46b4-ae72-6b9083bb6700"
+      Hint: Content
+      Value: |
+        <figure class="image image_resized image-style-align-right" style="width:42.48%;"><img class="image_resized" style="aspect-ratio:520/282;" src="-/media/949C1CB9D30246B0AB197E5E2F4B611C.ashx" alt="pexels-vecislavas-popa-1571453 1" width="520" height="282" /></figure><h3>Piezas de declaración que inspiran conversación</h3><p>Una lámpara de hierro suspendida atrae la mirada, flotando sobre una mesa de centro de perfil bajo hecha de madera flotante. Cerca, una estantería escultórica alberga una mezcla curada de arte, plantas y cerámica, ofreciendo tanto función como estilo.</p><p>Es un diseño bien pensado que guía naturalmente la mirada a través de la habitación. Cada elemento de diseño, ya sea estructural o decorativo, se siente intencional, contribuyendo a la vibra armoniosa de la habitación. Predomina una paleta neutral, pero toques de terracota y azul marino añaden personalidad sin abrumar los sentidos. Los detalles artesanales, como la cerámica hecha a mano y los paneles de pared texturizados, infunden calidez y autenticidad.</p><p>Es un diseño bien pensado que guía naturalmente la mirada a través de la habitación. Cada elemento de diseño, ya sea estructural o decorativo, se siente intencional, contribuyendo a la vibra armoniosa de la habitación. Predomina una paleta neutral, pero toques de terracota y azul marino añaden personalidad sin abrumar los sentidos. Los detalles artesanales, como la cerámica hecha a mano y los paneles de pared texturizados, infunden calidez y autenticidad.</p><figure class="image image_resized image-style-align-right" style="width:42.48%;"><img class="image_resized" style="aspect-ratio:520/282;" src="-/media/949C1CB9D30246B0AB197E5E2F4B611C.ashx" alt="pexels-vecislavas-popa-1571453 1" width="520" height="282" /></figure><h3>Piezas de declaración que inspiran conversación</h3><p>Una lámpara de hierro suspendida atrae la mirada, flotando sobre una mesa de centro de perfil bajo hecha de madera flotante. Cerca, una estantería escultórica alberga una mezcla curada de arte, plantas y cerámica, ofreciendo tanto función como estilo.</p><p>Es un diseño bien pensado que guía naturalmente la mirada a través de la habitación. Cada elemento de diseño, ya sea estructural o decorativo, se siente intencional, contribuyendo a la vibra armoniosa de la habitación. Predomina una paleta neutral, pero toques de terracota y azul marino añaden personalidad sin abrumar los sentidos. Los detalles artesanales, como la cerámica hecha a mano y los paneles de pared texturizados, infunden calidez y autenticidad.</p><p>Es un diseño bien pensado que guía naturalmente la mirada a través de la habitación. Cada elemento de diseño, ya sea estructural o decorativo, se siente intencional, contribuyendo a la vibra armoniosa de la habitación. Predomina una paleta neutral, pero toques de terracota y azul marino añaden personalidad sin abrumar los sentidos. Los detalles artesanales, como la cerámica hecha a mano y los paneles de pared texturizados, infunden calidez y autenticidad.</p>
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\sanduni.galagoda@sitecore.com
+    - ID: "62c99938-d40e-4878-ab77-3464abd79fd5"
+      Hint: ShortDescription
+      Value: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Mus mauris vitae ultricies leo integer malesuada nunc. In nulla posuere sollicitudin aliquam ultrices. Morbi blandit cursus risus at ultrices mi tempus imperdiet. Libero enim sed faucibus turpis in. Cursus mattis molestie a iaculis at erat. Nibh cras pulvinar mattis nunc sed blandit libero. Pellentesque elit ullamcorper dignissim cras tincidunt. Pharetra et ultrices neque ornare aenean euismod elementum.
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "5ccf2371-3a48-4499-bc42-45646171dabe"
+    - ID: "9857f526-390f-48df-b6d1-1a97cc328e8f"
+      Hint: __Version Name
+      Value: AI translated
+    - ID: "9c8beb3d-e162-4540-bb7d-9504db078f44"
+      Hint: Title
+      Value: Explorando nuevas formas de decorar
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\allen.blanton@sitecore.com
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20260609T054650Z
+    - ID: "e4df8bb9-c0d9-475d-92b4-dcb526bd6b38"
+      Hint: metadataTitle
+      Value: Explorando nuevas formas de decorar | Revista Forma Lux – Perspectivas modernas sobre diseño de interiores
+    - ID: "f04feaa2-f9a4-4030-907d-18fc3b18b0f4"
+      Hint: metadataKeywords
+      Value: diseño de interiores, decoración moderna del hogar, estilo de muebles, interiores contemporáneos, revista Forma Lux, inspiración en diseño, artesanía artesanal, tendencias del hogar
+- Language: "fr-CA"
+  Fields:
+  - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
+    Hint: __Unversioned revision
+    Value: "9699a43e-cf45-4146-ba75-972cbc7a1594"
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Explorer de nouvelles façons de décorer
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "17b75967-9b67-4eb9-bb35-bbe0228ca368"
+      Hint: pageSummary
+      Value: Forma Lux vous invite à repenser comment les pièces prennent vie. Explorer de nouvelles façons de décorer examine le design comme une conversation—entre structure et douceur, héritage et innovation. L'éclairage sculptural, les textures de bois flotté et la poterie artisanale ancrent l'espace dans une beauté tactile, tandis qu'une retenue réfléchie garde chaque détail intentionnel. Cet article célèbre les intérieurs non pas comme des expositions statiques, mais comme des expressions évolutives de l'artisanat, de l'émotion et de l'harmonie moderne.
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20250917T090300Z
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: Explorer de nouvelles façons de décorer
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\sanduni.galagoda@sitecore.com
+    - ID: "56a52337-177b-46b4-ae72-6b9083bb6700"
+      Hint: Content
+      Value: |
+        <figure class="image image_resized image-style-align-right" style="width:42.48%;"><img class="image_resized" style="aspect-ratio:520/282;" src="-/media/949C1CB9D30246B0AB197E5E2F4B611C.ashx" alt="pexels-vecislavas-popa-1571453 1" width="520" height="282" /></figure><h3>Pièces maîtresses qui suscitent la conversation</h3><p>Un luminaire en fer suspendu attire le regard, planant au-dessus d'une table basse profilée en bois flotté. À proximité, une bibliothèque sculpturale abrite un mélange de pièces d'art, de plantes et de céramiques, offrant à la fois fonctionnalité et style.</p><p>C'est une disposition bien pensée qui guide naturellement le regard à travers la pièce. Chaque élément de design—qu'il soit structurel ou décoratif—semble intentionnel, contribuant à l'ambiance harmonieuse de la pièce. Une palette neutre domine, mais des touches de terracotta et de marine ajoutent de la personnalité sans submerger les sens. Des détails artisanaux, comme la poterie faite à la main et les panneaux muraux texturés, insufflent chaleur et authenticité.</p><p>C'est une disposition bien pensée qui guide naturellement le regard à travers la pièce. Chaque élément de design—qu'il soit structurel ou décoratif—semble intentionnel, contribuant à l'ambiance harmonieuse de la pièce. Une palette neutre domine, mais des touches de terracotta et de marine ajoutent de la personnalité sans submerger les sens. Des détails artisanaux, comme la poterie faite à la main et les panneaux muraux texturés, insufflent chaleur et authenticité.</p><figure class="image image_resized image-style-align-right" style="width:42.48%;"><img class="image_resized" style="aspect-ratio:520/282;" src="-/media/949C1CB9D30246B0AB197E5E2F4B611C.ashx" alt="pexels-vecislavas-popa-1571453 1" width="520" height="282" /></figure><h3>Pièces maîtresses qui suscitent la conversation</h3><p>Un luminaire en fer suspendu attire le regard, planant au-dessus d'une table basse profilée en bois flotté. À proximité, une bibliothèque sculpturale abrite un mélange de pièces d'art, de plantes et de céramiques, offrant à la fois fonctionnalité et style.</p><p>C'est une disposition bien pensée qui guide naturellement le regard à travers la pièce. Chaque élément de design—qu'il soit structurel ou décoratif—semble intentionnel, contribuant à l'ambiance harmonieuse de la pièce. Une palette neutre domine, mais des touches de terracotta et de marine ajoutent de la personnalité sans submerger les sens. Des détails artisanaux, comme la poterie faite à la main et les panneaux muraux texturés, insufflent chaleur et authenticité.</p><p>C'est une disposition bien pensée qui guide naturellement le regard à travers la pièce. Chaque élément de design—qu'il soit structurel ou décoratif—semble intentionnel, contribuant à l'ambiance harmonieuse de la pièce. Une palette neutre domine, mais des touches de terracotta et de marine ajoutent de la personnalité sans submerger les sens. Des détails artisanaux, comme la poterie faite à la main et les panneaux muraux texturés, insufflent chaleur et authenticité.</p>
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\sanduni.galagoda@sitecore.com
+    - ID: "62c99938-d40e-4878-ab77-3464abd79fd5"
+      Hint: ShortDescription
+      Value: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Mus mauris vitae ultricies leo integer malesuada nunc. In nulla posuere sollicitudin aliquam ultrices. Morbi blandit cursus risus at ultrices mi tempus imperdiet. Libero enim sed faucibus turpis in. Cursus mattis molestie a iaculis at erat. Nibh cras pulvinar mattis nunc sed blandit libero. Pellentesque elit ullamcorper dignissim cras tincidunt. Pharetra et ultrices neque ornare aenean euismod elementum.
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "3f0b178f-92f3-4ca0-8b23-a4a5df01e9e4"
+    - ID: "9857f526-390f-48df-b6d1-1a97cc328e8f"
+      Hint: __Version Name
+      Value: AI translated
+    - ID: "9c8beb3d-e162-4540-bb7d-9504db078f44"
+      Hint: Title
+      Value: Explorer de nouvelles façons de décorer
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\allen.blanton@sitecore.com
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20260609T054650Z
+    - ID: "e4df8bb9-c0d9-475d-92b4-dcb526bd6b38"
+      Hint: metadataTitle
+      Value: Explorer de nouvelles façons de décorer | Journal Forma Lux – Perspectives modernes sur le design d'intérieur
+    - ID: "f04feaa2-f9a4-4030-907d-18fc3b18b0f4"
+      Hint: metadataKeywords
+      Value: design d'intérieur, décoration moderne, stylisme de meubles, intérieurs contemporains, journal Forma Lux, inspiration design, artisanat, tendances maison
+- Language: "fr-FR"
+  Fields:
+  - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
+    Hint: __Unversioned revision
+    Value: "179cc75a-fd90-488d-9639-ab2e2ba85ee0"
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Explorer de nouvelles façons de décorer
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "17b75967-9b67-4eb9-bb35-bbe0228ca368"
+      Hint: pageSummary
+      Value: Forma Lux vous invite à repenser comment les pièces prennent vie. Explorer de nouvelles façons de décorer examine le design comme une conversation—entre structure et douceur, héritage et innovation. L'éclairage sculptural, les textures de bois flotté et la poterie artisanale ancrent l'espace dans une beauté tactile, tandis qu'une retenue réfléchie garde chaque détail intentionnel. Cet article célèbre les intérieurs non pas comme des expositions statiques, mais comme des expressions évolutives de l'artisanat, de l'émotion et de l'harmonie moderne.
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20250917T090300Z
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: Explorer de nouvelles façons de décorer
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\sanduni.galagoda@sitecore.com
+    - ID: "56a52337-177b-46b4-ae72-6b9083bb6700"
+      Hint: Content
+      Value: |
+        <figure class="image image_resized image-style-align-right" style="width:42.48%;"><img class="image_resized" style="aspect-ratio:520/282;" src="-/media/949C1CB9D30246B0AB197E5E2F4B611C.ashx" alt="pexels-vecislavas-popa-1571453 1" width="520" height="282" /></figure><h3>Pièces maîtresses qui suscitent la conversation</h3><p>Un luminaire en fer suspendu attire l'œil, planant au-dessus d'une table basse profilée en bois flotté. À proximité, une bibliothèque sculpturale abrite un mélange d'art, de plantes et de céramiques, offrant à la fois fonctionnalité et flair.</p><p>C'est une disposition bien pensée qui guide naturellement le regard à travers la pièce. Chaque élément de design, qu'il soit structurel ou décoratif, semble intentionnel, contribuant à l'ambiance harmonieuse de la pièce. Une palette neutre domine, mais des touches de terracotta et de marine ajoutent de la personnalité sans submerger les sens. Des détails artisanaux, comme la poterie faite à la main et les panneaux muraux texturés, insufflent chaleur et authenticité.</p><p>C'est une disposition bien pensée qui guide naturellement le regard à travers la pièce. Chaque élément de design, qu'il soit structurel ou décoratif, semble intentionnel, contribuant à l'ambiance harmonieuse de la pièce. Une palette neutre domine, mais des touches de terracotta et de marine ajoutent de la personnalité sans submerger les sens. Des détails artisanaux, comme la poterie faite à la main et les panneaux muraux texturés, insufflent chaleur et authenticité.</p><figure class="image image_resized image-style-align-right" style="width:42.48%;"><img class="image_resized" style="aspect-ratio:520/282;" src="-/media/949C1CB9D30246B0AB197E5E2F4B611C.ashx" alt="pexels-vecislavas-popa-1571453 1" width="520" height="282" /></figure><h3>Pièces maîtresses qui suscitent la conversation</h3><p>Un luminaire en fer suspendu attire l'œil, planant au-dessus d'une table basse profilée en bois flotté. À proximité, une bibliothèque sculpturale abrite un mélange d'art, de plantes et de céramiques, offrant à la fois fonctionnalité et flair.</p><p>C'est une disposition bien pensée qui guide naturellement le regard à travers la pièce. Chaque élément de design, qu'il soit structurel ou décoratif, semble intentionnel, contribuant à l'ambiance harmonieuse de la pièce. Une palette neutre domine, mais des touches de terracotta et de marine ajoutent de la personnalité sans submerger les sens. Des détails artisanaux, comme la poterie faite à la main et les panneaux muraux texturés, insufflent chaleur et authenticité.</p><p>C'est une disposition bien pensée qui guide naturellement le regard à travers la pièce. Chaque élément de design, qu'il soit structurel ou décoratif, semble intentionnel, contribuant à l'ambiance harmonieuse de la pièce. Une palette neutre domine, mais des touches de terracotta et de marine ajoutent de la personnalité sans submerger les sens. Des détails artisanaux, comme la poterie faite à la main et les panneaux muraux texturés, insufflent chaleur et authenticité.</p>
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\sanduni.galagoda@sitecore.com
+    - ID: "62c99938-d40e-4878-ab77-3464abd79fd5"
+      Hint: ShortDescription
+      Value: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Mus mauris vitae ultricies leo integer malesuada nunc. In nulla posuere sollicitudin aliquam ultrices. Morbi blandit cursus risus at ultrices mi tempus imperdiet. Libero enim sed faucibus turpis in. Cursus mattis molestie a iaculis at erat. Nibh cras pulvinar mattis nunc sed blandit libero. Pellentesque elit ullamcorper dignissim cras tincidunt. Pharetra et ultrices neque ornare aenean euismod elementum.
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "5575c1cc-e2af-4c20-979f-d5df02cc6fed"
+    - ID: "9857f526-390f-48df-b6d1-1a97cc328e8f"
+      Hint: __Version Name
+      Value: AI translated
+    - ID: "9c8beb3d-e162-4540-bb7d-9504db078f44"
+      Hint: Title
+      Value: Explorer de nouvelles façons de décorer
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\allen.blanton@sitecore.com
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20260609T054650Z
+    - ID: "e4df8bb9-c0d9-475d-92b4-dcb526bd6b38"
+      Hint: metadataTitle
+      Value: Explorer de nouvelles façons de décorer | Journal Forma Lux – Perspectives modernes sur le design d'intérieur
+    - ID: "f04feaa2-f9a4-4030-907d-18fc3b18b0f4"
+      Hint: metadataKeywords
+      Value: design d'intérieur, décoration intérieure moderne, stylisme de meubles, intérieurs contemporains, journal Forma Lux, inspiration design, artisanat d'art, tendances maison

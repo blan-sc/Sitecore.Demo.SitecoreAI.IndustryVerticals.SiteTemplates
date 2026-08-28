@@ -11,12 +11,12 @@ SharedFields:
 - ID: "a6a4a7d3-4017-4996-9264-27b1d3030273"
   Hint: Articles
   Value: |
-    {38E43BDD-5A39-4459-B17A-92B677AC85A4}
-    {1D40B6A9-FA2F-4760-8714-F942867F1321}
     {4CFF3D1A-680B-4CF0-83CE-55E7C8364449}
+    {1D40B6A9-FA2F-4760-8714-F942867F1321}
+    {38E43BDD-5A39-4459-B17A-92B677AC85A4}
 - ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
-  Value: "8eebf85b-70fa-415e-abf9-c4d0596ea377"
+  Value: "014190ae-9551-455c-906f-37846c683e32"
 Languages:
 - Language: en
   Versions:
@@ -45,14 +45,14 @@ Languages:
       Value: STORIES@ GILEAD
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "b673bed2-1bb7-43af-9030-442f3c7361e3"
+      Value: "39845fdf-51ab-4b0c-8511-2d8627a34553"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\allen.blanton@sitecore.com
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20260609T072246Z
+      Value: 20260625T070659Z
 - Language: "es-ES"
   Versions:
   - Version: 1

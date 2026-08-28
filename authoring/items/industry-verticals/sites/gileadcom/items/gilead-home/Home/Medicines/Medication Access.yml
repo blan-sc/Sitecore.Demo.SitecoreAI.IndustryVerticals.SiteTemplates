@@ -4,6 +4,13 @@ Parent: "a87715f8-6a21-464f-a435-33255e2c8813"
 Template: "98e60957-0783-4a9a-85cc-77dad30e9711"
 Path: "/sitecore/content/industry-verticals/gileadcom/Home/Medicines/Medication Access"
 SharedFields:
+- ID: "25f9b35b-0c2c-4f43-ae2f-1d30eb1f2b6b"
+  Hint: ogImage
+  Value: |
+    <image mediaid="d0d46f9c-5631-4008-9f51-968bbddc0d76" alt="Patient support imagery representing access to medication resources and healthcare guidance." />
+- ID: "97fb669d-5b8e-4829-9a24-06418c315d73"
+  Hint: SxaTags
+  Value: "{AD883652-BF8F-4303-8BB8-3A7CF887590F}|{317CEC83-F01A-4181-A870-AE01557463B8}|{363E87B8-F8D3-41E8-BDCF-8442950F42FC}|{8A3C8F30-0F17-4833-96D8-5131BBE8152A}|{92FDCE17-45B1-44EC-B32E-1674B010977D}|{62A9DDC0-8D8F-4995-8FEC-31C2345653A2}|{F6875B2E-173D-4964-BBEF-D0D48536D850}|{BF7B6FDB-425D-4BB5-BF6F-CA76BBE4931A}|{DB50501E-B65D-49A7-BBC1-6CBF36B90767}|{18A079B9-513D-4074-97CE-875873483A36}|{F63A7923-38F7-4471-9E76-C02A112E1C34}"
 - ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
   Hint: __Workflow
   Value: "{A5BC37E7-ED96-4C1E-8590-A26E64DB55EA}"
@@ -13,7 +20,7 @@ SharedFields:
     <image mediaid="{3DED2461-EB4A-4932-9198-12BD2F1C9174}" />
 - ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
-  Value: "160b472a-8b4e-4d1f-9310-c4667daac371"
+  Value: "99b8972b-37ce-48b8-860c-51aa9222f995"
 Languages:
 - Language: en
   Versions:
@@ -190,14 +197,14 @@ Languages:
         sitecore\allen.blanton@sitecore.com
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "6fdbbd18-15d0-4785-a95f-6df96c2c322c"
+      Value: "18a1f467-0f28-4b83-9dfe-9577cf8340a4"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\allen.blanton@sitecore.com
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20260609T084424Z
+      Value: 20260625T185522Z
   - Version: 2
     Fields:
     - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
@@ -233,17 +240,17 @@ Languages:
                 <ruleset
                   s:pet="true">
                   <rule
-                    uid="{E679B7F1-E6E9-4FA3-9A40-4401238097EF}"
-                    s:name="02ad03b73d29496d8aebe752718b46d1">
+                    uid="{21ABE5A5-9344-4EAB-9F6D-21DFCFCFA384}"
+                    s:name="549a81f9c7f7495787255f31da299332">
                     <conditions>
                       <condition
-                        uid="26C078E286C94718BABFC3E05CC1A693"
+                        uid="3FECFA20BFBC4890B0A6EA16957CD9A7"
                         s:id="{8E7426A4-12ED-4C44-8625-E7191860E726}"
-                        s:VariantName="02ad03b73d29496d8aebe752718b46d1" />
+                        s:VariantName="549a81f9c7f7495787255f31da299332" />
                     </conditions>
                     <actions>
                       <action
-                        uid="{2A089559-C54F-43C7-8986-292D4FBED2F9}"
+                        uid="{ABA65AB6-DD26-488C-9A27-681A57A9A2A7}"
                         s:id="{25F351A1-712D-45F8-857D-8AD95BB2ACE9}" />
                     </actions>
                   </rule>
@@ -252,7 +259,7 @@ Languages:
                     s:name="Default">
                     <conditions>
                       <condition
-                        uid="92B88FE47D634214A451B09B6B38E4E2"
+                        uid="8D3F2E4CCB544CF69D8E716CDAA89B04"
                         s:id="{4888ABBB-F17D-4485-B14B-842413F88732}" />
                     </conditions>
                   </rule>
@@ -374,35 +381,8 @@ Languages:
               s:par="GridParameters=%7B7465D855-992E-4DC2-9855-A03250DFA74B%7D&amp;FieldNames=%7BF6C4E963-D339-414D-9886-453DE44F79C3%7D&amp;Styles&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=10"
               s:ph="/headless-main/container-7/column-2-8" />
             <r
-              uid="{878E97D9-0F44-4669-BC7D-BA56C844A3E0}"
-              p:after="r[@uid='{B87A6CED-1A97-40E2-9EDB-4A7B9B0AE94F}']"
-              s:ds="9db24cce-f359-443c-9b7d-8ebb2d985ef7"
-              s:id="{CCD11802-22A3-462F-92FC-821515E2AEC8}"
-              s:par="GridParameters=%7B7465D855-992E-4DC2-9855-A03250DFA74B%7D&amp;FieldNames=%7BA7B73749-1546-4686-8981-5DAA95DB4ED2%7D&amp;Styles=%7C%7BB7425446-DDD4-46BF-99BC-5CC08A48C1D6%7D&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=16"
-              s:ph="/headless-main/container-13" />
-            <r
-              uid="{E47E026C-6644-4D66-95AC-587DAEFCE422}"
-              p:after="r[@uid='{878E97D9-0F44-4669-BC7D-BA56C844A3E0}']"
-              s:ds="5f01069e-a17d-4800-a7d0-d84b8f358ed3"
-              s:id="{442E3EA4-DE9A-41B5-A917-0F589F79B1A0}"
-              s:par="GridParameters=%7B7465D855-992E-4DC2-9855-A03250DFA74B%7D&amp;FieldNames&amp;Styles=%7C%7B46DB6D62-657E-4AA9-99CB-7EC9B916F6EE%7D&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=17"
-              s:ph="/headless-main/container-13" />
-            <r
-              uid="{B30FA2BC-1906-4A83-A54B-114397590B3D}"
-              p:after="r[@uid='{E47E026C-6644-4D66-95AC-587DAEFCE422}']"
-              s:ds="0356bc52-bd83-4e72-a86c-d80b9443fe31"
-              s:id="{E3CCF1D0-7855-4898-8BDE-77F83C6A487C}"
-              s:par="GridParameters=%7B7465D855-992E-4DC2-9855-A03250DFA74B%7D&amp;FieldNames=%7B2D725BA0-BC33-4669-B357-32C39CFD9E31%7D&amp;Styles=%7C%7B46DB6D62-657E-4AA9-99CB-7EC9B916F6EE%7D&amp;RenderingIdentifier&amp;CSSStyles"
-              s:ph="/headless-main/container-13" />
-            <r
-              uid="{6F04C01C-8C69-4C6F-8B60-77E150047492}"
-              p:after="r[@uid='{B30FA2BC-1906-4A83-A54B-114397590B3D}']"
-              s:id="{7A1D9A21-B8D7-42F9-9B0B-92ABF8D1974F}"
-              s:par="GridParameters=%7B7465D855-992E-4DC2-9855-A03250DFA74B%7D&amp;FieldNames&amp;BackgroundImage&amp;Styles&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=21"
-              s:ph="/headless-main/container-13" />
-            <r
               uid="{F81E025D-6CCB-4D1C-85AB-29802989360F}"
-              p:after="r[@uid='{6F04C01C-8C69-4C6F-8B60-77E150047492}']"
+              p:after="r[@uid='{B87A6CED-1A97-40E2-9EDB-4A7B9B0AE94F}']"
               s:id="{15CABDFF-FFD9-48F4-826D-A4C3D7868D3A}"
               s:par="ColumnWidth1=%7B89647981-C99C-44E3-A55E-65BFF555E4C3%7D&amp;ColumnWidth2=%7B89647981-C99C-44E3-A55E-65BFF555E4C3%7D&amp;ColumnWidth3&amp;ColumnWidth4&amp;ColumnWidth5&amp;ColumnWidth6&amp;ColumnWidth7&amp;ColumnWidth8&amp;GridParameters=%7B7465D855-992E-4DC2-9855-A03250DFA74B%7D&amp;SplitterSize=2&amp;EnabledPlaceholders=1%2C2&amp;FieldNames&amp;Styles1&amp;Styles2&amp;Styles3&amp;Styles4&amp;Styles5&amp;Styles6&amp;Styles7&amp;Styles&amp;Styles8&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=18"
               s:ph="/headless-main/container-13/section-wrapper-content-17" />
@@ -435,16 +415,75 @@ Languages:
               s:ph="/headless-main/container-13/container-21/column-1-22" />
             <r
               uid="{0D0B9EEB-B3D5-4B38-B80E-62B5A6F97279}"
-              p:after="*[1=2]"
+              p:after="r[@uid='{876C8BFD-135D-4911-A13F-75DE70C96EB2}']"
               s:ds="a0c20fa3-60f1-48e7-b441-d1c8387b22dd"
               s:id="{CCD11802-22A3-462F-92FC-821515E2AEC8}"
               s:par="GridParameters=%7B7465D855-992E-4DC2-9855-A03250DFA74B%7D&amp;FieldNames=%7BDAC2FC87-62A0-4EF3-87D2-CFEF3C9A8379%7D&amp;Styles=%7C%7B46DB6D62-657E-4AA9-99CB-7EC9B916F6EE%7D%7C%7BB7425446-DDD4-46BF-99BC-5CC08A48C1D6%7D&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=24"
               s:ph="/headless-main/container-13/container-21/column-2-22" />
+            <r
+              uid="{AEE97E94-28B5-453D-8F4E-471495D50623}"
+              p:after="r[@uid='{0D0B9EEB-B3D5-4B38-B80E-62B5A6F97279}']"
+              s:id="{15CABDFF-FFD9-48F4-826D-A4C3D7868D3A}"
+              s:par="ColumnWidth1=%7B89647981-C99C-44E3-A55E-65BFF555E4C3%7D&amp;ColumnWidth2=%7B89647981-C99C-44E3-A55E-65BFF555E4C3%7D&amp;ColumnWidth3&amp;ColumnWidth4&amp;ColumnWidth5&amp;ColumnWidth6&amp;ColumnWidth7&amp;ColumnWidth8&amp;GridParameters=%7B7465D855-992E-4DC2-9855-A03250DFA74B%7D%7C%7B5B9ABBBD-BAF5-498D-A866-3E4647FE949D%7D&amp;SplitterSize=2&amp;EnabledPlaceholders=1%2C2&amp;FieldNames&amp;Styles1&amp;Styles2&amp;Styles3&amp;Styles4&amp;Styles5&amp;Styles6&amp;Styles7&amp;Styles&amp;Styles8&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=26"
+              s:ph="/headless-main/container-13/container-25" />
+            <r
+              uid="{5498F842-1A0A-46B1-850E-0AAE4C8EB86D}"
+              p:after="r[@uid='{AEE97E94-28B5-453D-8F4E-471495D50623}']"
+              s:ds="local:/Data/Text 11"
+              s:id="{9C6D53E3-FE57-4638-AF7B-6D68304C7A94}"
+              s:par="GridParameters=%7B7465D855-992E-4DC2-9855-A03250DFA74B%7D&amp;FieldNames=%7BF6C4E963-D339-414D-9886-453DE44F79C3%7D&amp;Styles&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=27"
+              s:ph="/headless-main/container-13/container-25/column-1-26" />
+            <r
+              uid="{24495768-6173-4FE2-BBD3-8B574E7574E4}"
+              p:after="r[@uid='{5498F842-1A0A-46B1-850E-0AAE4C8EB86D}']"
+              s:ds="local:/Data/Text 12"
+              s:id="{9C6D53E3-FE57-4638-AF7B-6D68304C7A94}"
+              s:par="GridParameters=%7B7465D855-992E-4DC2-9855-A03250DFA74B%7D&amp;FieldNames=%7BF6C4E963-D339-414D-9886-453DE44F79C3%7D&amp;Styles&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=28"
+              s:ph="/headless-main/container-13/container-25/column-2-26" />
+            <r
+              uid="{878E97D9-0F44-4669-BC7D-BA56C844A3E0}"
+              p:after="r[@uid='{24495768-6173-4FE2-BBD3-8B574E7574E4}']"
+              s:ds="9db24cce-f359-443c-9b7d-8ebb2d985ef7"
+              s:id="{CCD11802-22A3-462F-92FC-821515E2AEC8}"
+              s:par="GridParameters=%7B7465D855-992E-4DC2-9855-A03250DFA74B%7D&amp;FieldNames=%7BA7B73749-1546-4686-8981-5DAA95DB4ED2%7D&amp;Styles=%7C%7BB7425446-DDD4-46BF-99BC-5CC08A48C1D6%7D&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=16"
+              s:ph="/headless-main/container-13" />
+            <r
+              uid="{E47E026C-6644-4D66-95AC-587DAEFCE422}"
+              p:after="r[@uid='{878E97D9-0F44-4669-BC7D-BA56C844A3E0}']"
+              s:ds="5f01069e-a17d-4800-a7d0-d84b8f358ed3"
+              s:id="{442E3EA4-DE9A-41B5-A917-0F589F79B1A0}"
+              s:par="GridParameters=%7B7465D855-992E-4DC2-9855-A03250DFA74B%7D&amp;FieldNames&amp;Styles=%7C%7B46DB6D62-657E-4AA9-99CB-7EC9B916F6EE%7D&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=17"
+              s:ph="/headless-main/container-13" />
+            <r
+              uid="{B30FA2BC-1906-4A83-A54B-114397590B3D}"
+              p:after="r[@uid='{E47E026C-6644-4D66-95AC-587DAEFCE422}']"
+              s:ds="0356bc52-bd83-4e72-a86c-d80b9443fe31"
+              s:id="{E3CCF1D0-7855-4898-8BDE-77F83C6A487C}"
+              s:par="GridParameters=%7B7465D855-992E-4DC2-9855-A03250DFA74B%7D&amp;FieldNames=%7B2D725BA0-BC33-4669-B357-32C39CFD9E31%7D&amp;Styles=%7C%7B46DB6D62-657E-4AA9-99CB-7EC9B916F6EE%7D&amp;RenderingIdentifier&amp;CSSStyles"
+              s:ph="/headless-main/container-13" />
+            <r
+              uid="{6F04C01C-8C69-4C6F-8B60-77E150047492}"
+              p:after="r[@uid='{B30FA2BC-1906-4A83-A54B-114397590B3D}']"
+              s:id="{7A1D9A21-B8D7-42F9-9B0B-92ABF8D1974F}"
+              s:par="GridParameters=%7B7465D855-992E-4DC2-9855-A03250DFA74B%7D&amp;FieldNames&amp;BackgroundImage&amp;Styles&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=21"
+              s:ph="/headless-main/container-13" />
+            <r
+              uid="{F0A99C9D-76CF-4FAE-AD66-09C43A8430EF}"
+              p:after="*[1=2]"
+              s:id="{7A1D9A21-B8D7-42F9-9B0B-92ABF8D1974F}"
+              s:par="GridParameters=%7B7465D855-992E-4DC2-9855-A03250DFA74B%7D%7C%7B5B9ABBBD-BAF5-498D-A866-3E4647FE949D%7D&amp;FieldNames&amp;BackgroundImage&amp;Styles=%7C%7B2736849F-8AA0-433A-9A97-02E3D3A81840%7D%7C%7B1F8671F6-C540-40F6-9687-360594B038F1%7D%7C%7B0DCB7B73-8F27-4DA0-99E2-DEEA76C54E31%7D%7C%7B395F59DB-C0D4-44FB-A244-E0E2EEF2D253%7D&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=25"
+              s:ph="/headless-main/container-13" />
           </d>
         </r>
+    - ID: "13fe722e-a8c7-4432-a983-23fb28ffab05"
+      Hint: metadataKeywords
+      Value: medication access, patient support, affordability, managed access, voluntary licensing, health equity, HIV
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
       Value: 20260609T125937Z
+    - ID: "32c603c2-c858-4138-8fcb-8e18a5ad8240"
+      Hint: metadataTitle
+      Value: Medication Access and Patient Support
     - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
       Hint: __Workflow state
       Value: "{190B1C84-F1BE-47ED-AA41-F42193D9C8FC}"
@@ -462,9 +501,12 @@ Languages:
       Hint: __Created by
       Value: |
         sitecore\allen.blanton@sitecore.com
+    - ID: "6b43d550-6d5f-46ce-ac84-3d9493c45bc6"
+      Hint: metadataDescription
+      Value: Learn how Gilead supports medication access through U.S. patient support programs, managed access, voluntary licensing, global partnerships, and health equity initiatives.
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "7d82631c-9468-45d4-8f20-dc3ee8deef55"
+      Value: "5cd941ea-963d-454d-98d8-cef30d928c66"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
@@ -472,6 +514,9 @@ Languages:
     - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
       Hint: __Valid from
       Value: 20260609T125937Z
+    - ID: "d3886445-9ee0-46a0-ae5e-8857dd6b395f"
+      Hint: pageSummary
+      Value: Gilead’s medication access content explains U.S. patient support, managed access, voluntary licensing, global partnerships, and affordability efforts designed to help expand access to therapies.
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20260609T130905Z
+      Value: 20260625T203703Z
